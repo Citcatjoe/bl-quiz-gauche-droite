@@ -2937,6 +2937,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/img\/this\/placeholder.png" : {
+      "ft" : 32768,
+      "iS" : 30255,
+      "oA" : 0,
+      "oAP" : "\/img\/this\/placeholder.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/img\/this\/positive-cup-numbers-p38.png" : {
       "ft" : 32768,
       "iS" : 75011,
