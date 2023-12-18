@@ -1,0 +1,221 @@
+[
+    {
+        "questionImg": "question1.jpg",
+        "questionImgCredit": "Love Actually - Universal Pictures",
+        "questionTxt": "Dans «Love Actually», quel rôle obtient Daisy, la fille de Karen (incarnée par Emma Thompson), dans la pièce de Noël?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Un mouton",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Une étoile",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Un homard",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question3.jpg",
+        "questionImgCredit": "The Polar Express - Warner Bros",
+        "questionTxt": "Quelle boisson est servie à tous les passagers du «Polar Express»?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Du thé de Noël",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Du chocolat chaud",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Du cidre de lutin magique",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question2.jpg",
+        "questionImgCredit": "Princesse Chicago - Netflix",
+        "questionTxt": "Quel est le métier de Stacy De Novo (incarnée par Vanessa Hudgens) avant de devenir «La Princesse de Chicago» sur Netflix?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Enseignante",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Pâtissière",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Écrivaine",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question4.jpg",
+        "questionImgCredit": "L'étrange Noël de Monsieur Jack - Buena Vista Pictures",
+        "questionTxt": "Comment s’appelle le chien de Jack, dans «L’Étrange Noël de Monsieur Jack»?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Zero",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Hero",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Cheerio",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question5.jpg",
+        "questionImgCredit": "Le Père Noël est une ordure - TRINACRAFILMS",
+        "questionTxt": "Dans «Le Père Noël est une ordure», comment s’appelle la pâtisserie roulée sous les aisselles de Mr. Preskovitch?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Le Glögg",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Le Bloug",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Le Kloug",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question6.jpg",
+        "questionImgCredit": "«Maman, j’ai raté l’avion!» - ALAMY",
+        "questionTxt": "Dans «Maman, j’ai raté l’avion!», comment s’appellent les deux voleurs que terrasse brillamment le jeune Kevin?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Barry et Justin",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Harry et Marv",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Ben et Jerry",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question7.jpeg",
+        "questionImgCredit": "Le Grinch - Universal Pictures",
+        "questionTxt": "Quel est le prénom de l’attachante petite fille qui parvient à attendrir le Grinch?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Lucy Lou",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Cindy Lou",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Mary Lou",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question8.jpeg",
+        "questionImgCredit": "The Holiday - DR",
+        "questionTxt": "Dans «The Holiday», sur quel morceau de rock Amanda danse-t-elle en pyjama, alors qu’elle vient d’arriver dans la maison d’Iris?",
+        "questionAnswers": [
+            {
+                "answerTxt": "«Mr. Brigthside» par The Killers",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "«I'm just a kid» par Simple Plan",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "«Friday I'm in love» par The Cure",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question9.jpeg",
+        "questionImgCredit": "Harry Potter - Warner Bros",
+        "questionTxt": "Quel est le tout premier cadeau de Noël que Molly Weasley envoie à Harry, alors qu’il passe les Fêtes à Poudlard?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Une boîte de Chocogrenouilles",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Une cape d'invisibilité",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Un pull tricoté orné d'un «H»",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question10.jpg",
+        "questionImgCredit": "Prince Noel - Netflix",
+        "questionTxt": "Dans «Un prince pour Noël» sur Netflix, où le roi a-t-il caché le document officiel qui autorise l’accession au trône du prince Richard?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Dans une décoration de Noël en forme de gland",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Dans une boîte en forme de pain d’épices",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Dans une trappe secrète à côté des cuisines",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": null
+    },
+    {
+        "questionImg": "question11.jpg",
+        "questionImgCredit": "Elf - New Line Cinema",
+        "questionTxt": "Dans le film «Elf», pourquoi le lutin Buddy (incarné par Will Ferrell) quitte-t-il le pôle Nord?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Il veut convaincre les enfants humains de croire au Père Noël",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Il veut retrouver sa véritable famille",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Il a perdu son chemin et doit sauver Noël pour rentrer chez lui",
+                "answerIsTrue": false
+            }
+        ]
+    }
+]

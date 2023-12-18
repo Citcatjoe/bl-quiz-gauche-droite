@@ -1,0 +1,27 @@
+{
+	"title": "Seuls les véritables fans de films de Noël réussiront ce quiz!",
+	"titlesocial": "Seuls les véritables fans de films de Noël réussiront ce quiz!",
+	"description": "Vous adorez les films de Noël et possédez une excellente mémoire? Testez vos connaissances en répondant à notre questionnaire festif dédié aux vrais pros.",
+	"authors": {
+		"photos": "Midjourney",
+		"videos": null,
+		"writer": {
+			"fname": "Ellen",
+			"lname": "De Meester",
+			"title": "Journaliste Blick",
+			"filetype": "png",
+			"url": "https://www.blick.ch/fr/auteurs/ellen-de-meester-id18937288.html"
+		},
+		"dev": "César Greppin"
+	},
+	"imgSocial": "social.jpg",
+	"headertheme": "trans", 
+	"blickWhite": false,
+	"blickBlack": true,
+	"headerBoxed": false,
+	"pubDate": "2020-07-23T11:00:00+00:00",
+	"partner": {
+		"logo": "img/empty.png",
+		"link": "https://www.blick.ch/"
+	}
+}

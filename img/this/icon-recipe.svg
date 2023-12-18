@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113.039" height="66.074" viewBox="0 0 113.039 66.074">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_131" data-name="Rectangle 131" width="113.039" height="13.896" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Tracé_1306" data-name="Tracé 1306" d="M113.038,704.143c0,3.837-25.3,6.948-56.519,6.948S0,707.98,0,704.143,25.3,697.2,56.519,697.2s56.519,3.11,56.519,6.948" transform="translate(0 -697.195)" fill="none" clip-rule="evenodd"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="2.914" gradientTransform="matrix(0.123, 0, 0, -0.114, 0, 1.114)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1d1d1b"/>
+      <stop offset="1" stop-color="#fff"/>
+    </radialGradient>
+  </defs>
+  <g id="Groupe_2595" data-name="Groupe 2595" transform="translate(-491.447 -3943.915)">
+    <g id="Groupe_2591" data-name="Groupe 2591" transform="translate(491.447 3996.093)" opacity="0.4" style="mix-blend-mode: darken;isolation: isolate">
+      <g id="Groupe_2594" data-name="Groupe 2594" opacity="0.701">
+        <g id="Groupe_2593" data-name="Groupe 2593" clip-path="url(#clip-path)">
+          <g id="Groupe_2592" data-name="Groupe 2592">
+            <g id="Groupe_2591-2" data-name="Groupe 2591" clip-path="url(#clip-path-2)">
+              <rect id="Rectangle_130" data-name="Rectangle 130" width="113.038" height="13.896" fill="url(#radial-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Tracé_1309" data-name="Tracé 1309" d="M-6469.02,6494.653l4.437-1.492,9.4-1.309h7.737l9.775,1.309,3.566,1.492,8.956-2.2,10.646-.6,9.919,1.309,6.134,1.492-.582,40.859-7.224-1.348-8.248-.89h-9.536l-5.272,2.238h-5.263l-6.445-1.348-12.132-.89-11.432.89-4.437,1.348Z" transform="translate(6979.447 -2547.085)" fill="#fff"/>
+    <path id="Tracé_1306-2" data-name="Tracé 1306" d="M794.767,15a55.471,55.471,0,0,0-17.6,2.551v41.4a61.954,61.954,0,0,1,35.191,0v-41.4A55.472,55.472,0,0,0,794.767,15Z" transform="translate(-231.588 3929.915)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Tracé_1307" data-name="Tracé 1307" d="M310.878,15a55.471,55.471,0,0,1,17.6,2.551v41.4a61.954,61.954,0,0,0-35.19,0v-41.4A55.471,55.471,0,0,1,310.878,15Z" transform="translate(217.11 3929.915)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Ligne_27" data-name="Ligne 27" x1="30.597" y2="2.772" transform="translate(514.987 3988.862)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Ligne_28" data-name="Ligne 28" x2="30.597" y2="2.772" transform="translate(545.584 3988.862)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Ligne_29" data-name="Ligne 29" x2="19.762" transform="translate(518.107 3954.398)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Ligne_30" data-name="Ligne 30" x2="19.762" transform="translate(518.107 3958.856)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Ligne_31" data-name="Ligne 31" x2="19.762" transform="translate(518.107 3963.315)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <line id="Ligne_32" data-name="Ligne 32" x2="19.762" transform="translate(518.107 3967.774)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path id="Tracé_1308" data-name="Tracé 1308" d="M872.991,182.14a4.959,4.959,0,0,0-4.82,3.748,4.5,4.5,0,0,0-2.241-.591,4.2,4.2,0,1,0,0,8.4,4.583,4.583,0,0,0,.947-.1l.99,7.358h10.249l.992-7.366a4.584,4.584,0,0,0,.981.106,4.2,4.2,0,1,0,0-8.4,4.5,4.5,0,0,0-2.272.609A4.959,4.959,0,0,0,872.991,182.14Z" transform="translate(-309.83 3774.93)" fill="none" stroke="#a8805c" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

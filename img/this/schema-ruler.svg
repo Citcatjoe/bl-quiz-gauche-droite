@@ -1,0 +1,268 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="518" height="815" viewBox="0 0 518 815">
+  <g id="schema-ruler" transform="translate(-560 -218)">
+    <g id="scale">
+      <text id="scale-legend" transform="translate(560 995)" font-size="14" font-family="Poppins-Regular, Poppins" opacity="0.498"><tspan x="0" y="15">Kg of CO2e per kg </tspan><tspan x="0" y="33">of green coffee</tspan></text>
+      <text id="_7" data-name="7" transform="translate(629 316)" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-8.025" y="0">7</tspan></text>
+      <text id="_3.5" data-name="3.5" transform="translate(629 573)" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-23.055" y="0">3.5</tspan></text>
+      <text id="_6" data-name="6" transform="translate(629 386)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-6.35" y="0">6</tspan></text>
+      <text id="_5" data-name="5" transform="translate(629 460)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-6.28" y="0">5</tspan></text>
+      <text id="_4" data-name="4" transform="translate(629 534)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-6.29" y="0">4</tspan></text>
+      <text id="_3" data-name="3" transform="translate(629 608)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-5.89" y="0">3</tspan></text>
+      <text id="_2" data-name="2" transform="translate(629 682)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-5.75" y="0">2</tspan></text>
+      <text id="_1" data-name="1" transform="translate(629 756)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-3.2" y="0">1</tspan></text>
+      <text id="_0" data-name="0" transform="translate(629 833)" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-9.78" y="0">0</tspan></text>
+      <text id="_-1" data-name="-1" transform="translate(629 903)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-8.71" y="0">-1</tspan></text>
+      <text id="_-2" data-name="-2" transform="translate(629 980)" font-size="30" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-17.265" y="0">-2</tspan></text>
+      <text id="_8" data-name="8" transform="translate(629 239)" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-6.31" y="0">8</tspan></text>
+      <g id="lines" transform="translate(571.5 231.537)">
+        <g id="Groupe_2393" data-name="Groupe 2393" transform="translate(8 44.01)">
+          <line id="Ligne_23" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2398" data-name="Groupe 2398" transform="translate(8 118.372)">
+          <line id="Ligne_23-2" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-2" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2403" data-name="Groupe 2403" transform="translate(8 192.733)">
+          <line id="Ligne_23-3" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-3" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2408" data-name="Groupe 2408" transform="translate(8 265.578)">
+          <line id="Ligne_23-4" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-4" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2413" data-name="Groupe 2413" transform="translate(8 339.939)">
+          <line id="Ligne_23-5" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-5" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2418" data-name="Groupe 2418" transform="translate(8 414.301)">
+          <line id="Ligne_23-6" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-6" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2423" data-name="Groupe 2423" transform="translate(8 488.663)">
+          <line id="Ligne_23-7" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-7" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2428" data-name="Groupe 2428" transform="translate(8 561.507)">
+          <line id="Ligne_23-8" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-8" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2433" data-name="Groupe 2433" transform="translate(8 635.869)">
+          <line id="Ligne_23-9" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-9" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2438" data-name="Groupe 2438" transform="translate(8 708.713)">
+          <line id="Ligne_23-10" data-name="Ligne 23" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_24-10" data-name="Ligne 24" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2394" data-name="Groupe 2394" transform="translate(8 59.186)">
+          <line id="Ligne_21" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2399" data-name="Groupe 2399" transform="translate(8 133.548)">
+          <line id="Ligne_21-2" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-2" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2404" data-name="Groupe 2404" transform="translate(8 207.909)">
+          <line id="Ligne_21-3" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-3" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2409" data-name="Groupe 2409" transform="translate(8 280.753)">
+          <line id="Ligne_21-4" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-4" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2414" data-name="Groupe 2414" transform="translate(8 355.115)">
+          <line id="Ligne_21-5" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-5" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2419" data-name="Groupe 2419" transform="translate(8 429.477)">
+          <line id="Ligne_21-6" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-6" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2424" data-name="Groupe 2424" transform="translate(8 503.839)">
+          <line id="Ligne_21-7" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-7" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2429" data-name="Groupe 2429" transform="translate(8 576.683)">
+          <line id="Ligne_21-8" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-8" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2434" data-name="Groupe 2434" transform="translate(8 651.044)">
+          <line id="Ligne_21-9" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-9" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2439" data-name="Groupe 2439" transform="translate(8 723.889)">
+          <line id="Ligne_21-10" data-name="Ligne 21" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_22-10" data-name="Ligne 22" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2390" data-name="Groupe 2390">
+          <path id="Tracé_954" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2395" data-name="Groupe 2395" transform="translate(0 74.362)">
+          <path id="Tracé_954-2" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-2" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2400" data-name="Groupe 2400" transform="translate(0 148.723)">
+          <path id="Tracé_954-3" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-3" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2405" data-name="Groupe 2405" transform="translate(0 221.568)">
+          <path id="Tracé_954-4" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-4" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2410" data-name="Groupe 2410" transform="translate(0 295.929)">
+          <path id="Tracé_954-5" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-5" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2415" data-name="Groupe 2415" transform="translate(0 370.291)">
+          <path id="Tracé_954-6" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-6" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2420" data-name="Groupe 2420" transform="translate(0 444.653)">
+          <path id="Tracé_954-7" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-7" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2425" data-name="Groupe 2425" transform="translate(0 517.497)">
+          <path id="Tracé_954-8" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-8" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2430" data-name="Groupe 2430" transform="translate(0 591.859)">
+          <path id="Tracé_954-9" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-9" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2435" data-name="Groupe 2435" transform="translate(0 664.703)">
+          <path id="Tracé_954-10" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-10" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2440" data-name="Groupe 2440" transform="translate(0 739.064)">
+          <path id="Tracé_954-11" data-name="Tracé 954" d="M-8,0H14" transform="translate(8)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <path id="Tracé_955-11" data-name="Tracé 955" d="M0,0H22" transform="translate(92.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2391" data-name="Groupe 2391" transform="translate(8 15.176)">
+          <line id="Ligne_12" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2396" data-name="Groupe 2396" transform="translate(8 89.538)">
+          <line id="Ligne_12-2" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-2" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2401" data-name="Groupe 2401" transform="translate(8 163.899)">
+          <line id="Ligne_12-3" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-3" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2406" data-name="Groupe 2406" transform="translate(8 236.743)">
+          <line id="Ligne_12-4" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-4" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2411" data-name="Groupe 2411" transform="translate(8 311.105)">
+          <line id="Ligne_12-5" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-5" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2416" data-name="Groupe 2416" transform="translate(8 385.467)">
+          <line id="Ligne_12-6" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-6" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2421" data-name="Groupe 2421" transform="translate(8 459.829)">
+          <line id="Ligne_12-7" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-7" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2426" data-name="Groupe 2426" transform="translate(8 532.673)">
+          <line id="Ligne_12-8" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-8" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2431" data-name="Groupe 2431" transform="translate(8 607.034)">
+          <line id="Ligne_12-9" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-9" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2436" data-name="Groupe 2436" transform="translate(8 679.879)">
+          <line id="Ligne_12-10" data-name="Ligne 12" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_11-10" data-name="Ligne 11" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2392" data-name="Groupe 2392" transform="translate(8 30.352)">
+          <line id="Ligne_14" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2397" data-name="Groupe 2397" transform="translate(8 104.713)">
+          <line id="Ligne_14-2" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-2" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2402" data-name="Groupe 2402" transform="translate(8 179.075)">
+          <line id="Ligne_14-3" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-3" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2407" data-name="Groupe 2407" transform="translate(8 251.919)">
+          <line id="Ligne_14-4" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-4" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2412" data-name="Groupe 2412" transform="translate(8 326.281)">
+          <line id="Ligne_14-5" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-5" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2417" data-name="Groupe 2417" transform="translate(8 400.643)">
+          <line id="Ligne_14-6" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-6" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2422" data-name="Groupe 2422" transform="translate(8 475.004)">
+          <line id="Ligne_14-7" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-7" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2427" data-name="Groupe 2427" transform="translate(8 547.849)">
+          <line id="Ligne_14-8" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-8" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2432" data-name="Groupe 2432" transform="translate(8 622.21)">
+          <line id="Ligne_14-9" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-9" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+        <g id="Groupe_2437" data-name="Groupe 2437" transform="translate(8 695.055)">
+          <line id="Ligne_14-10" data-name="Ligne 14" x2="14" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+          <line id="Ligne_13-10" data-name="Ligne 13" x2="14" transform="translate(84.867)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+        </g>
+      </g>
+      <rect id="scale-overlay" width="140" height="9" transform="translate(560 982)" fill="#fefbee" opacity="0.762"/>
+    </g>
+    <g id="step5">
+      <g id="Rectangle_31" data-name="Rectangle 31" transform="translate(768 935.601)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="310" height="70" stroke="none"/>
+        <rect x="1" y="1" width="308" height="68" fill="none"/>
+      </g>
+      <text id="Potential_for_farms_to_act_as_carbon_sinks" data-name="Potential for farms to act as
+carbon sinks" transform="translate(782 949.601)" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="17">Potential for farms to act as</tspan><tspan x="0" y="37">carbon sinks</tspan></text>
+      <path id="Tracé_960" data-name="Tracé 960" d="M0,0H35.107L0,35.107Z" transform="translate(743.176 970.425) rotate(-45)" fill="#fddd93"/>
+    </g>
+    <g id="step4">
+      <g id="Rectangle_30" data-name="Rectangle 30" transform="translate(768 798)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="310" height="50" stroke="none"/>
+        <rect x="1" y="1" width="308" height="48" fill="none"/>
+      </g>
+      <text id="Net_zero_in_green_coffee" data-name="Net zero in green coffee" transform="translate(782 812)" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="17">Net zero in green coffee</tspan></text>
+      <path id="Tracé_959" data-name="Tracé 959" d="M0,0H35.107L0,35.107Z" transform="translate(743.176 822.824) rotate(-45)" fill="#fddd93"/>
+    </g>
+    <g id="step3">
+      <text id="text" transform="translate(768 634)" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="15">Trough accelerating regenerative </tspan><tspan x="0" y="34">agricultural practices and carbon removals </tspan><tspan x="0" y="53">by scaling agroforestry and innovating with </tspan><tspan x="0" y="72">long term carbon capture solutions is the </tspan><tspan x="0" y="91">AAA supply chain, we plan to reach our net </tspan><tspan x="0" y="110">zero target in green coffee by 2030</tspan></text>
+      <g id="arrow">
+        <line id="Ligne_25" data-name="Ligne 25" y2="219.625" transform="translate(717.5 595.875)" fill="none" stroke="#000" stroke-width="2"/>
+        <path id="Tracé_957" data-name="Tracé 957" d="M10.931,2.828l5.575,13.546L2.828,10.806Z" transform="translate(717.456 798.375) rotate(45)"/>
+      </g>
+    </g>
+    <g id="step2">
+      <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(768 405)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="310" height="147" stroke="none"/>
+        <rect x="1" y="1" width="308" height="145" fill="none"/>
+      </g>
+      <text id="Average_green_coffee_emissions_factor" data-name="Average green coffee emissions factor" transform="translate(782 419)" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="17">Average green coffee </tspan><tspan x="0" y="37">emissions factor</tspan></text>
+      <text id="The_weighted_average_carbon_footprint_in_green_coffee_is_estimated_at_7kg_of_carbon_per_kg_of_green_coffee" data-name="The weighted average carbon footprint in green coffee is estimated at 7kg of carbon per kg of green coffee" transform="translate(782 473)" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="15">The weighted average carbon footprint </tspan><tspan x="0" y="34">in green coffee is estimated at 7kg of </tspan><tspan x="0" y="53">carbon per kg of green coffee</tspan></text>
+      <path id="Tracé_958" data-name="Tracé 958" d="M0,0H35.107L0,35.107Z" transform="translate(743.176 478.324) rotate(-45)" fill="#fddd93"/>
+    </g>
+    <g id="step1">
+      <g id="Rectangle_25" data-name="Rectangle 25" transform="translate(768 232)" fill="#fff" stroke="#000" stroke-width="2">
+        <rect width="310" height="147" stroke="none"/>
+        <rect x="1" y="1" width="308" height="145" fill="none"/>
+      </g>
+      <text id="Average_green_coffee_emissions_factor-2" data-name="Average green coffee emissions factor" transform="translate(782 246)" font-size="16" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="17">Average green coffee </tspan><tspan x="0" y="37">emissions factor</tspan></text>
+      <text id="The_weighted_average_carbon_footprint_in_green_coffee_is_estimated_at_7kg_of_carbon_per_kg_of_green_coffee-2" data-name="The weighted average carbon footprint in green coffee is estimated at 7kg of carbon per kg of green coffee" transform="translate(782 299)" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="15">The weighted average carbon footprint </tspan><tspan x="0" y="34">in green coffee is estimated at 7kg of </tspan><tspan x="0" y="53">carbon per kg of green coffee</tspan></text>
+      <path id="Tracé_956" data-name="Tracé 956" d="M0,0H35.107L0,35.107Z" transform="translate(743.176 305.824) rotate(-45)" fill="#fddd93"/>
+    </g>
+  </g>
+</svg>
