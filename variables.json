@@ -1,16 +1,16 @@
 {
-	"title": "Seuls les véritables fans de films de Noël réussiront ce quiz!",
-	"titlesocial": "Seuls les véritables fans de films de Noël réussiront ce quiz!",
-	"description": "Vous adorez les films de Noël et possédez une excellente mémoire? Testez vos connaissances en répondant à notre questionnaire festif dédié aux vrais pros.",
+	"title": "NO TITLE",
+	"titlesocial": "NO TITLE",
+	"description": "NO DESC",
 	"authors": {
 		"photos": "Midjourney",
 		"videos": null,
 		"writer": {
-			"fname": "Ellen",
-			"lname": "De Meester",
+			"fname": "Léo",
+			"lname": "Michoud",
 			"title": "Journaliste Blick",
 			"filetype": "png",
-			"url": "https://www.blick.ch/fr/auteurs/ellen-de-meester-id18937288.html"
+			"url": "https://www.blick.ch/fr/auteurs/leo-michoud-journaliste-blick-id19149587.html"
 		},
 		"dev": "César Greppin"
 	},

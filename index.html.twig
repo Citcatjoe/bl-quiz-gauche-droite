@@ -1,12 +1,14 @@
-{% use '_blocks.html.twig' %}
-<!-- {% use '_blocks_local.html.twig' %} -->
+{# Looking fot these files in given path #}
+{% use '_metas-and-scripts.html.twig' %}
+{% use '_header-and-share.html.twig' %}
+{% use '_html-elements.html.twig' %}
 
 <!DOCTYPE HTML>
 
 <html lang="fr" class="h-full relative"> 
 	<head>
 
-		{{ block('consent') }}
+		{# {{ block('consent') }} #}
 
 		<script src="https://cdn.tailwindcss.com"></script>   
 		<link rel="preconnect" href="https://fonts.googleapis.com">

@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34434",
   "files" : {
+    "\/_html-elements.html.twig" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/_html-elements.html.twig",
+      "oF" : 0
+    },
     "\/composer.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -1739,6 +1747,19 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/favicon\/favicon-48x48.jpg" : {
+      "ft" : 16384,
+      "iS" : 5186,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/favicon\/favicon-48x48.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/favicon\/favicon.ico" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1778,32 +1799,6 @@
       "oAP" : "\/hb_card_tp.php",
       "oF" : 0
     },
-    "\/img\/___medaillon.jpeg" : {
-      "ft" : 16384,
-      "iS" : 35875,
-      "jF" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/___medaillon.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/___opening.jpg" : {
-      "ft" : 16384,
-      "iS" : 1983452,
-      "jF" : 0,
-      "oA" : 1,
-      "oAP" : "\/img\/___opening.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/img\/.gitignore" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1811,405 +1806,6 @@
       "oA" : 0,
       "oAP" : "\/img\/.gitignore",
       "oF" : 0
-    },
-    "\/img\/amit-juillard.png" : {
-      "ft" : 32768,
-      "iS" : 1530153,
-      "oA" : 0,
-      "oAP" : "\/img\/amit-juillard.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/img\/blick-black.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/blick-black.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/blick-trans.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/blick-trans.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/blick.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/blick.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/brush.ai" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/img\/brush.ai",
-      "oF" : 0
-    },
-    "\/img\/camille-andres.png" : {
-      "ft" : 32768,
-      "iS" : 12735,
-      "oA" : 0,
-      "oAP" : "\/img\/camille-andres.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/img\/ellen-de-meester.png" : {
-      "ft" : 32768,
-      "iS" : 72489,
-      "oA" : 0,
-      "oAP" : "\/img\/ellen-de-meester.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/img\/fabien-goubet.png" : {
-      "ft" : 32768,
-      "iS" : 55201,
-      "oA" : 0,
-      "oAP" : "\/img\/fabien-goubet.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/img\/gregory-beaud.png" : {
-      "ft" : 32768,
-      "iS" : 62842,
-      "oA" : 0,
-      "oAP" : "\/img\/gregory-beaud.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/img\/icon-cross-black.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-cross-black.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-cross.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-cross.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-facebook-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-facebook-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-facebook-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-facebook-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-facebook.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-facebook.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-link-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-link-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-link-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-link-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-link.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-link.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-linkedin-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-linkedin-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-linkedin-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-linkedin-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-linkedin.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-linkedin.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-menu.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-menu.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-plane-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-plane-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-plane-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-plane-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-plane.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-plane.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-share-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-share-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-share-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-share-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-share.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-share.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-threads-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-threads-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-threads-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-threads-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-twitter-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-twitter-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-twitter-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-twitter-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-twitter.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-twitter.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-wa-b-noborder.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-wa-b-noborder.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-wa-b.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-wa-b.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/icon-wa.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/icon-wa.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/img-hero.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/img\/img-hero.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/margaux-sitavanc.jpg" : {
-      "ft" : 16384,
-      "iS" : 90466,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/img\/margaux-sitavanc.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/img\/placeholder.png" : {
-      "ft" : 32768,
-      "iS" : 30255,
-      "oA" : 0,
-      "oAP" : "\/img\/placeholder.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
     },
     "\/img\/this\/___img-hero-bean-1.png" : {
       "ft" : 32768,
@@ -4028,48 +3624,29 @@
       "oAP" : "\/social.psd",
       "oF" : 0
     },
-    "\/templates\/_blocks.html.twig" : {
+    "\/templates\/header-and-share\/DISABLED_header-and-share.html.twig" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/templates\/_blocks.html.twig",
+      "oAP" : "\/templates\/header-and-share\/DISABLED_header-and-share.html.twig",
       "oF" : 0
     },
-    "\/templates\/local\/_blocks_local.html.twig" : {
+    "\/templates\/html-elements\/DISABLED_html-elements.html.twig" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/templates\/local\/_blocks_local.html.twig",
+      "oAP" : "\/templates\/html-elements\/DISABLED_html-elements.html.twig",
       "oF" : 0
     },
-    "\/templates\/README.html" : {
+    "\/templates\/metas-and-scripts\/DISABLED_metas-and-scripts.html.twig" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/templates\/README.html",
+      "oA" : 1,
+      "oAP" : "\/templates\/metas-and-scripts\/DISABLED_metas-and-scripts.html.twig",
       "oF" : 0
-    },
-    "\/templates\/README.md" : {
-      "cB" : 0,
-      "cS" : 0,
-      "eF" : 1,
-      "eL" : 1,
-      "ema" : 1,
-      "eSQ" : 1,
-      "ft" : 4096,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/templates\/README.html",
-      "oF" : 0,
-      "oFM" : 0,
-      "oS" : 0,
-      "pHT" : 0,
-      "pME" : 1,
-      "rFN" : 0,
-      "uCM" : 0
     },
     "\/variables.json" : {
       "ft" : 524288,
@@ -9116,7 +8693,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 689520013.15429795,
-    "displayValue" : "bl-quiz-base",
+    "displayValue" : "bl-quiz-gauche-droite",
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "\/favicon\/apple-touch-icon.png",
     "iconImageWasSetByUser" : 0
