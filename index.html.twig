@@ -5,10 +5,10 @@
 
 <!DOCTYPE HTML>
 
-<html lang="fr" class="h-full relative"> 
+<html lang="fr" class="relative"> 
 	<head>
 
-		{# {{ block('consent') }} #}
+		{{ block('consent') }}
 
 		<script src="https://cdn.tailwindcss.com"></script>   
 		<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,7 +52,7 @@
 				</span>
 				{{#if questionImg}}
 				<figure class="px-0 md:px-8 mb-6 relative">
-					<img src="img/this/{{questionImg}}" alt="" class="">
+					<img src="img/this/{{questionImg}}" alt="" class="max-h-96 mx-auto">
 					{{#if questionImgCredit}}
 					<span class="block text-xs font-sans opacity-50 uppercase mt-2">{{questionImgCredit}}</span>
 					
@@ -78,7 +78,7 @@
 	{% endraw %}
 	
 	{# {{ block('frame') }} #}
-	<body class="bg-white h-full"> 
+	<body class="bg-white"> 
 
 		<div class="wrapper">
 		<!-- {{ block('loading_overlay') }} -->
@@ -92,7 +92,7 @@
 
 		<div class="container max-w-screen-2xl px-4 relative bg-white pt-16 md:pt-24">
 			<div class="container py-8 max-w-2xl">
-				<h1 class="font-serif font-semibold text-4xl md:text-5xl text-center">Gauche ou droite</h1>
+				<h1 class="font-serif font-semibold text-4xl md:text-5xl text-center">Ces élus romands sont-ils de gauche ou de droite? Faites notre quiz!</h1>
 			</div>            
 			{{ block('social') }}
 		</div>
@@ -101,8 +101,8 @@
 			<div class="container h-full max-w-screen-xl relative px-4 md:px-20">
 
 				<div class="mb-12 -mx-4 relative">
-					<img src="img/this/placeholder.png" alt="">
-					<span class="absolute bottom-3 text-white text-xs font-sans left-3 opacity-50 uppercase">Shutterstock</span>
+					<img src="img/this/opening.png" alt="">
+					{# <span class="absolute bottom-3 text-white text-xs font-sans left-3 opacity-50 uppercase">Shutterstock</span> #}
 				</div>	
 				
 			</div>
@@ -114,11 +114,11 @@
 			
 			<div class="container mt-8 mb-12 max-w-2xl">
 				<p class="lettrine text-md md:text-lg font-light mb-6">
-					Si vous êtes capable de nommer tous les rennes du Père Noël (dans l’ordre!), d’entonner les bandes originales de «Love Actually» (par cœur!) et de lister les trois groupes alimentaires principaux des elfes (les bonbons, les sucres d’orge et le sirop), vous pourriez réussir ce test haut la main. 
+					Nos politiciennes et politiciens suisses sont presque tous des inconnus. Hormis un petit nombre de têtes d’affiches, parmi lesquelles les sept conseillers fédéraux (et encore), la plupart peuvent se balader dans la rue sans que personne ne les reconnaisse.
 				</p>
 
 				<p class="text-lg font-light">
-					Gare à vous, toutefois, si vous vous trompez! Le Grinch vous attend de pied ferme à Whoville pour vous faire réciter des chants de Noël jusqu’au 24 décembre. Mais on vous fait confiance: il suffit d’avoir vu quelques classiques des Fêtes pour trouver les bonnes réponses. Sinon, ce sera juste le signe qu’un petit rattrapage cinématographique s’impose, accompagné d’une énorme tasse de chocolat chaud!
+					Dans ce quiz, vous n'aurez droit qu'à une image, souvent officielle, pour déterminer si telle ou telle personnalité politique romande est affiliée à un parti de gauche (PS, Vert-e-s, Ensemble à gauche, POP) ou de droite (PLR, UDC). Toutes et tous sont élus au niveau cantonal ou dans des communes d'envergure. Si vous observez de près la politique romande, vous pourriez bien en reconnaître un ou deux. Mais ferez-vous un sans faute? À vous de jouer...
 				</p>
 
 			
@@ -142,7 +142,7 @@
 						</div>
 						<span class="nb-results block text-center text-4xl font-sans font-semibold mb-6"><span class="nb-correct">8</span> / <span class="nb-question">10</span></span>
 						<span class="percent-results block text-center text-2xl font-sans font-light mb-10 md:mb-12">soit <span class="percent-correct font-semibold">80</span>% de réponses correctes</span>
-						<span class="final-text block text-center text-base md:text-xl font-sans font-light mb-12 rounded-3xl bg-slate-200 p-6 md:p-8">Merci pour votre participation! Quel que soit votre score, vous méritez tous les Chocogrenouilles et sucres d’orge que le pôle Nord peut offrir. On vous souhaite de magnifiques fêtes de fin d’année! </span>
+						<span class="final-text block text-center text-base md:text-xl font-sans font-light mb-12 rounded-3xl bg-slate-200 p-6 md:p-8">Vous n'avez assurément pas fait tout juste à ce quiz! Oui, c'est vrai, le piège de l'élue du Centre rend la tâche impossible. Alors, votre radar à caractéristiques de gauche ou de droite était-il au top? Ou alors, vous vous êtes complètement foiré, comme une partie de la rédaction de Blick. Quel que soit votre score, vous avez peut-être appris à reconnaître certains de vos représentants politiques... C'est pas trop tôt!</span>
 						<div class="grid grid-cols-1 md:grid-cols-2 gap-x-6">
 							<a href="." class="block">
 							<button class="btn-redo bg-white rounded-full border-custom-btn border-black text-center text-2xl font-sans font-semibold antialiased rounded-full py-4 px-8 w-full mb-4 md:mb-0">Refaire le test</button></a>
@@ -229,5 +229,7 @@
 		
 
 	</div>
+
+	<script src="https://www.blick.ch/assets/iframeHeightAdjustment.js"></script>
 	</body>
 </html>

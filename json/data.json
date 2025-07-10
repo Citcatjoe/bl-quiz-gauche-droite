@@ -1,221 +1,291 @@
 [
-    {
-        "questionImg": "question1.jpg",
-        "questionImgCredit": "Love Actually - Universal Pictures",
-        "questionTxt": "Dans «Love Actually», quel rôle obtient Daisy, la fille de Karen (incarnée par Emma Thompson), dans la pièce de Noël?",
+    {  
+        "questionType": "Défi 1",
+        "questionImg": "1_romain_collaud_plr_fribourg.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Un mouton",
+                "answerTxt": "Gauche",
                 "answerIsTrue": false
             },
             {
-                "answerTxt": "Une étoile",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Un homard",
+                "answerTxt": "Droite",
                 "answerIsTrue": true
             }
         ],
-        "questionHint": null
+        "questionHint": "Romain Collaud est élu au Conseil d'État à Fribourg, sous la banière du Parti libéral-radical (PLR). Il est donc de droite. Vous êtes-vous fait avoir par sa jolie veste de costard en velours côtelé? Crédit photo: État de Fribourg"
     },
-    {
-        "questionImg": "question3.jpg",
-        "questionImgCredit": "The Polar Express - Warner Bros",
-        "questionTxt": "Quelle boisson est servie à tous les passagers du «Polar Express»?",
+    {  
+        "questionType": "Défi 2",
+        "questionImg": "2_florence_nater_socialiste_neuchatel_etat.jpg",
+        "questionImgCredit": "Keystone",
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Du thé de Noël",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Du chocolat chaud",
+                "answerTxt": "Gauche",
                 "answerIsTrue": true
             },
             {
-                "answerTxt": "Du cidre de lutin magique",
+                "answerTxt": "Droite",
                 "answerIsTrue": false
             }
         ],
-        "questionHint": null
+        "questionHint": "Florence Nater est une élue du Parti socialiste (PS) au Conseil d’État à Neuchâtel. Elle est donc de gauche."
     },
-    {
-        "questionImg": "question2.jpg",
-        "questionImgCredit": "Princesse Chicago - Netflix",
-        "questionTxt": "Quel est le métier de Stacy De Novo (incarnée par Vanessa Hudgens) avant de devenir «La Princesse de Chicago» sur Netflix?",
+    { 
+        "questionType": "Défi 3",
+        "questionImg": "3_remy_pagani_eag_geneve_grand_conseil.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Enseignante",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Pâtissière",
+                "answerTxt": "Gauche",
                 "answerIsTrue": true
             },
             {
-                "answerTxt": "Écrivaine",
+                "answerTxt": "Droite",
+                "answerIsTrue": false
+            }            
+        ],
+        "questionHint": "C'est quoi, une écharpe de droite? Ancien maire de Genève, Rémy Pagani est à gauche de la gauche. Il était élu au Grand Conseil genevois jusqu’en printemps 2023, sous la bannière d’Ensemble à Gauche Genève. Crédit photo: EàG-GE"
+    },
+    { 
+        "questionType": "Défi 4",
+        "questionImg": "4_sylvie_bonvin-sansonnens_verte_etat_fribourg.jpg",
+        "questionImgCredit": "Keystone",
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Droite",
                 "answerIsTrue": false
             }
         ],
-        "questionHint": null
+        "questionHint": "Pas de piège sur ce coup-là, Sylvie Bonvin-Sansonnens est bien une élue des Vert-e-s, donc de gauche. Le collier de la conseillère d'État fribourgeoise était un indice, mais attention aux apparences parfois trompeuses."
     },
-    {
-        "questionImg": "question4.jpg",
-        "questionImgCredit": "L'étrange Noël de Monsieur Jack - Buena Vista Pictures",
-        "questionTxt": "Comment s’appelle le chien de Jack, dans «L’Étrange Noël de Monsieur Jack»?",
+    { 
+        "questionType": "Défi 5",
+        "questionImg": "5_ruben_ramchurn_udc_yverdon.jpg",
+        "questionImgCredit": "Keystone",
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Zero",
-                "answerIsTrue": true
-            },
-            {
-                "answerTxt": "Hero",
+                "answerTxt": "Gauche",
                 "answerIsTrue": false
             },
             {
-                "answerTxt": "Cheerio",
-                "answerIsTrue": false
-            }
-        ],
-        "questionHint": null
-    },
-    {
-        "questionImg": "question5.jpg",
-        "questionImgCredit": "Le Père Noël est une ordure - TRINACRAFILMS",
-        "questionTxt": "Dans «Le Père Noël est une ordure», comment s’appelle la pâtisserie roulée sous les aisselles de Mr. Preskovitch?",
-        "questionAnswers": [
-            {
-                "answerTxt": "Le Glögg",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Le Bloug",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Le Kloug",
+                "answerTxt": "Droite",
                 "answerIsTrue": true
             }
         ],
-        "questionHint": null
+        "questionHint": "Vous vous êtes trompé? Si non, qu'est-ce qui vous a mis sur la piste? Ruben Ramchurn est un élu communal de l’Union démocratique du centre (UDC) dans la deuxième ville du canton de Vaud: Yverdon-les-Bains."
     },
-    {
-        "questionImg": "question6.jpg",
-        "questionImgCredit": "«Maman, j’ai raté l’avion!» - ALAMY",
-        "questionTxt": "Dans «Maman, j’ai raté l’avion!», comment s’appellent les deux voleurs que terrasse brillamment le jeune Kevin?",
+    { 
+        "questionType": "Défi 6",
+        "questionImg": "6_florence_germond_socialiste_lausanne.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Barry et Justin",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Harry et Marv",
+                "answerTxt": "Gauche",
                 "answerIsTrue": true
             },
             {
-                "answerTxt": "Ben et Jerry",
+                "answerTxt": "Droite",
                 "answerIsTrue": false
             }
         ],
-        "questionHint": null
+        "questionHint": "Oui, on sait: Florence Germond porte un tailleur d'un bleu déroutant. Elle est pourtant élue socialiste la Municipalité de Lausanne. Au PS, les politiciens et politiciennes sont souvent en rouge sur leurs photos officielles, mais est-ce une règle immuable? Crédit photo: Lausanne.ch"
     },
-    {
-        "questionImg": "question7.jpeg",
-        "questionImgCredit": "Le Grinch - Universal Pictures",
-        "questionTxt": "Quel est le prénom de l’attachante petite fille qui parvient à attendrir le Grinch?",
+    { 
+        "questionType": "Défi 7",
+        "questionImg": "7_damien_raboud_udc_valais.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Lucy Lou",
+                "answerTxt": "Gauche",
                 "answerIsTrue": false
             },
             {
-                "answerTxt": "Cindy Lou",
-                "answerIsTrue": true
-            },
-            {
-                "answerTxt": "Mary Lou",
-                "answerIsTrue": false
-            }
-        ],
-        "questionHint": null
-    },
-    {
-        "questionImg": "question8.jpeg",
-        "questionImgCredit": "The Holiday - DR",
-        "questionTxt": "Dans «The Holiday», sur quel morceau de rock Amanda danse-t-elle en pyjama, alors qu’elle vient d’arriver dans la maison d’Iris?",
-        "questionAnswers": [
-            {
-                "answerTxt": "«Mr. Brigthside» par The Killers",
-                "answerIsTrue": true
-            },
-            {
-                "answerTxt": "«I'm just a kid» par Simple Plan",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "«Friday I'm in love» par The Cure",
-                "answerIsTrue": false
-            }
-        ],
-        "questionHint": null
-    },
-    {
-        "questionImg": "question9.jpeg",
-        "questionImgCredit": "Harry Potter - Warner Bros",
-        "questionTxt": "Quel est le tout premier cadeau de Noël que Molly Weasley envoie à Harry, alors qu’il passe les Fêtes à Poudlard?",
-        "questionAnswers": [
-            {
-                "answerTxt": "Une boîte de Chocogrenouilles",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Une cape d'invisibilité",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Un pull tricoté orné d'un «H»",
+                "answerTxt": "Droite",
                 "answerIsTrue": true
             }
         ],
-        "questionHint": null
+        "questionHint": "Sur quoi vous êtes-vous appuyé? La chemise bariolée ouverte, le collier métallique, le pin's ou les couleurs? Damien Raboud est bien un élu UDC valaisan, qui siège au parlement de son canton. Crédit photo: Parlement du Valais"
     },
-    {
-        "questionImg": "question10.jpg",
-        "questionImgCredit": "Prince Noel - Netflix",
-        "questionTxt": "Dans «Un prince pour Noël» sur Netflix, où le roi a-t-il caché le document officiel qui autorise l’accession au trône du prince Richard?",
+    { 
+        "questionType": "Défi 8",
+        "questionImg": "8_kalibala_jacklean_socialiste_geneve_grand_conseil.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Dans une décoration de Noël en forme de gland",
+                "answerTxt": "Gauche",
                 "answerIsTrue": true
             },
             {
-                "answerTxt": "Dans une boîte en forme de pain d’épices",
-                "answerIsTrue": false
-            },
-            {
-                "answerTxt": "Dans une trappe secrète à côté des cuisines",
+                "answerTxt": "Droite",
                 "answerIsTrue": false
             }
         ],
-        "questionHint": null
+        "questionHint": "Jacklean Kalibala est élue au Grand Conseil genevois, pour le compte du Parti socialiste. Une femme de gauche, donc. Crédit photo: Magali GIRARDIN/ge.ch"
     },
-    {
-        "questionImg": "question11.jpg",
-        "questionImgCredit": "Elf - New Line Cinema",
-        "questionTxt": "Dans le film «Elf», pourquoi le lutin Buddy (incarné par Will Ferrell) quitte-t-il le pôle Nord?",
+    { 
+        "questionType": "Défi 9",
+        "questionImg": "9_favre-torelloz_muriel_centre_pdc_valais_romand_grand_conseil.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
         "questionAnswers": [
             {
-                "answerTxt": "Il veut convaincre les enfants humains de croire au Père Noël",
+                "answerTxt": "Gauche",
                 "answerIsTrue": false
             },
             {
-                "answerTxt": "Il veut retrouver sa véritable famille",
+                "answerTxt": "Droite",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "Muriel Favre-Torelloz n'est «ni de gauche, ni de droite». La vice-présidente du Grand Conseil valaisan est issue des rangs du Centre, anciennement le PDC. Crédit photo: Parlement du Valais"
+    },
+    { 
+        "questionType": "Défi 10",
+        "questionImg": "10_jean-françois_carron_valais_grand_conseil.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Droite",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": "A quoi s'accrocher pour déterminer une orientation politique? Jean-François Carron est de droite, car élu UDC au Grand Conseil valaisan. Crédit photo: Parlement du Valais"
+    },
+    { 
+        "questionType": "Défi 11",
+        "questionImg": "11_crystel_graf_plr_neuchatel_conseil_etat.jpg",
+        "questionImgCredit": "Keystone",
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Droite",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": "La Neuchâteloise Crystel Graf est une femme de droite. La conseillère d'État libérale-radicale est en charge de la formation, c'est pourquoi elle pose devant un collège."
+    },
+    { 
+        "questionType": "Défi 12",
+        "questionImg": "12_philippe_cina_verts_grand_conseil_valais.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
                 "answerIsTrue": true
             },
             {
-                "answerTxt": "Il a perdu son chemin et doit sauver Noël pour rentrer chez lui",
+                "answerTxt": "Droite",
                 "answerIsTrue": false
             }
-        ]
+        ],
+        "questionHint": "Pour Phillipe Cina, ce n'est pas un choix facile. Mais il fallait retenir son absence de cravate pour éliminer toute possibilité d’appartenance au PLR. Le député au Grand Conseil du Valais est bien un Vert. Crédit photo: Parlement du Valais"
+    },
+    { 
+        "questionType": "Défi 13",
+        "questionImg": "13_brigitte_favre_udc_jura_parlement.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": false
+            },
+            {
+                "answerTxt": "Droite",
+                "answerIsTrue": true
+            }
+        ],
+        "questionHint": "Très peu d'indices sur cette image, mais il faut bien choisir. Brigitte Favre est une députée jurassienne, élue sous la banière de l'UDC. Crédit photo: jura.ch"
+    },
+    { 
+        "questionType": "Défi 14",
+        "questionImg": "14_pierre_vanek_eag_geneve_grand_conseil.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Droite",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "Pas de cravate, on vous l'a dit. Député au Grand Conseil genevois jusqu’au printemps 2023, Pierre Vanek est un camarade de Rémy Pagani, vu plus haut, dans les rangs d’Ensemble à Gauche Genève. Crédit photo: EàG-GE"
+    },
+    { 
+        "questionType": "Défi 15",
+        "questionImg": "15_thanh-my_tran-nhu_socialiste_vaud_grand_conseil.jpg",
+        "questionImgCredit": "Keystone",
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Droite",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "Chez les socialistes, est-on autorisé à porter autre chose que du rouge? Evidemment, mais ça n'empêche pas Thanh-My Tran-Nhu d'être une élue du PS au sein du Grand Conseil vaudois."
+   },
+    { 
+        "questionType": "Défi 16",
+        "questionImg": "16_vincent_keller_pop_vaud_grand_conseil.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cet élu est-il de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Droite",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "Encore un cas de politicien à pin's et à chemise ouverte. Cette fois, Vincent Keller est élu du Parti Ouvrier Populaire (POP) au Grand Conseil vaudois. Crédit photo: POP-Vaud"
+    },
+    { 
+        "questionType": "Défi 17",
+        "questionImg": "17_rosalie_beuret-siess_socialiste_jura_gouvernement.jpg",
+        "questionImgCredit": null,
+        "questionTxt": "Cette élue est-elle de gauche ou de droite?",
+        "questionAnswers": [
+            {
+                "answerTxt": "Gauche",
+                "answerIsTrue": true
+            },
+            {
+                "answerTxt": "Droite",
+                "answerIsTrue": false
+            }
+        ],
+        "questionHint": "Enfin, on arrive à la fin de ce quiz. Après tout cet entraînement, on espère que vous avez répondu correctement à ce dernier défi. Rosalie Beuret-Siess l'une des cinq membres du Gouvernement jurassien. Elle est socialiste et cheffe du Département des finances. Crédit photo: jura.ch"
     }
 ]

@@ -68,8 +68,8 @@
                 {
                     $(this).addClass('correct');
                     if (questionHint) {
-                        //$(this).closest('.question').find('.hint').html('<span class="correct-txt font-semibold underline decoration-2">Correct:</span> ' + questionHint);
-                        $(this).closest('.question').find('.hint').html('<span class="font-semibold underline decoration-2">Explications:</span> ' + questionHint);
+                        $(this).closest('.question').find('.hint').html('<span class="correct-txt font-semibold underline decoration-2">Correct:</span> ' + questionHint);
+                        //$(this).closest('.question').find('.hint').html('<span class="font-semibold underline decoration-2">Explications:</span> ' + questionHint);
                     }
                     nbCorrect = nbCorrect + 1;
                     
@@ -83,8 +83,8 @@
                         }
                     });
                     if (questionHint) {
-                        //$(this).closest('.question').find('.hint').html('<span class="error-txt font-semibold underline decoration-2">Erreur:</span> ' + questionHint);
-                        $(this).closest('.question').find('.hint').html('<span class="font-semibold underline decoration-2">Explications:</span> ' + questionHint);
+                        $(this).closest('.question').find('.hint').html('<span class="error-txt font-semibold underline decoration-2">Erreur:</span> ' + questionHint);
+                        //$(this).closest('.question').find('.hint').html('<span class="font-semibold underline decoration-2">Explications:</span> ' + questionHint);
                     }
 
                 }
@@ -198,6 +198,8 @@
         // Handle errors if the request fails
         console.error('No quiz data found', textStatus, errorThrown);
     });
+
+    
 
     // The questions array
 
